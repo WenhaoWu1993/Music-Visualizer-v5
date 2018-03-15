@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UITest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InstantiateRocks.cs" Line="87" Column="43" />
+      <File FileName="Assets/Scripts/RockBehaviour.cs" Line="36" Column="23" />
+      <File FileName="Assets/Scripts/UITest.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/UILocator.cs" Line="11" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
